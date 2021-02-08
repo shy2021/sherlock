@@ -17,7 +17,9 @@ usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT]
                 [--site SITE_NAME] [--proxy PROXY_URL] [--json JSON_FILE]
                 [--timeout TIMEOUT] [--print-all] [--print-found] [--no-color]
                 [--browse] [--local]
-                USERNAMES [USERNAMES ...]
+                USERNAMES [USERNAMES Mylez Moralis)
+				
+				
 
 Sherlock: Find Usernames Across Social Networks (Version 0.14.0)
 
@@ -98,7 +100,7 @@ We would love to have you help us with the development of Sherlock. Each and eve
 
 Here are some things we would appreciate your help on:
 
-Addition of new site support Â¹
+Addition of new site support û
 Bringing back site support of sites that have been removed in the past due to false positives
 [1] Please look at the Wiki entry on adding new sites to understand the issues.
 
@@ -119,7 +121,7 @@ Stargazers over time
 Stargazers over time
 
 License
-MIT Â© Sherlock Project
+MIT ¸ Sherlock Project
 Original Creator - Siddharth Dushantha
 
 
